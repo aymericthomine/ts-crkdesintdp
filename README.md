@@ -1,11 +1,7 @@
-# ts-crkdesintdp
+# Rendu du devoir : ts-crkdesintdp
+
 
 Exo1 - Deck of Cards
-Class:
--> 
--> 
--> 
-
 
 
 
@@ -27,4 +23,4 @@ Exo5 - Online Book Reader
 Class:
 -> 
 -> 
--> 
+->
